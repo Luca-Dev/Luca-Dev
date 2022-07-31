@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Luca-Dev
-- 👀 I’m interested in cryptocurrency, python and data sience
+- 👀 I’m interested in cryptocurrency, python and data science
 - 🌱 I’m currently learning SQL queries and after that Python + Solidity
 - 📫 How to reach me parscardiaca@gmail.com
